@@ -1,0 +1,15 @@
+﻿  FUSION_CENTER.cpp
+  PU.cpp
+  Source.cpp
+c:\users\enas\desktop\project1\project1\source.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\enas\desktop\project1\project1\source.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\enas\desktop\project1\project1\source.cpp(27): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\enas\desktop\project1\project1\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\enas\desktop\project1\project1\source.cpp(293): warning C4018: '<': signed/unsigned mismatch
+  SU.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Enas\Desktop\Project1\Debug\Project1.exe
